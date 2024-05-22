@@ -1,0 +1,7 @@
+{
+  "startDate": "2024-05-20",
+  "events": [
+    {"name": "Indian Wells", "date": "2024-12-08", "eventType": "Triathlon", "eventDistance": "70.3", "priority":  "A"},
+    {"name": "Olympic Test Race", "date": "2024-08-10", "eventType": "Triathlon", "eventDistance": "Olympic", "priority":  "B"}
+  ]
+}

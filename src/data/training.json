@@ -1,0 +1,36 @@
+{
+  "trainingSessions": [
+    {
+      "id": 1,
+      "date": "2024-05-22",
+      "mode": "Run",
+      "duration": "00:40:00",
+      "focus": "Endurance",
+      "description": "Morning run aimed at building endurance and cardiovascular strength."
+    },
+    {
+      "id": 2,
+      "date": "2024-05-22",
+      "mode": "Swim",
+      "duration": "01:00:00",
+      "focus": "Form",
+      "description": "Swim session focusing on technique and form."
+    },
+    {
+      "id": 3,
+      "date": "2024-05-23",
+      "mode": "Bike",
+      "duration": "01:30:00",
+      "focus": "Speed",
+      "description": "High-intensity bike intervals to improve sprinting power and speed."
+    },
+    {
+      "id": 4,
+      "date": "2024-05-24",
+      "mode": "Strength",
+      "duration": "00:50:00",
+      "focus": "Power",
+      "description": "Gym session for building muscle strength and power."
+    }
+  ]
+}
